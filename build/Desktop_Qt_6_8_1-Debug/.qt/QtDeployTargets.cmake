@@ -1,2 +1,0 @@
-set(__QT_DEPLOY_TARGET_CppCalculator_FILE /home/alex/CppCalculator/build/Desktop_Qt_6_8_1-Debug/CppCalculator)
-set(__QT_DEPLOY_TARGET_CppCalculator_TYPE EXECUTABLE)
